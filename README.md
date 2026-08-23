@@ -1,5 +1,5 @@
 #  About Me:
-##  Who Am I?<br>Hi! I'm Suman Kar (aka SK) — a passionate AI/ML engineer, researcher &  work with cutting-edge technology .<br><br> Currently working on: Autonomous AI agents, LLMs, and Edge AI<br><br> B.Tech in CSE <br><br>
+##  Who Am I?<br>Hi! I'm Suman Kar (aka SK) — a passionate AI engineer, researcher &  work with cutting-edge technology .<br><br> Currently working on: Autonomous AI agents, LLMs, HyperSpectral Image processing and Computer Vision<br><br> B.Tech in CSE <br><br>
 
 
 ## 🌐 Socials:
